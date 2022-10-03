@@ -1,7 +1,3 @@
-# Ai_prj
-Đồ án Nhập Môn TTNT
-Chạy run.class để khởi động chương trình.
-=======
 # Project: INTRODUCE TO AI
 
 Đề tài của đồ án: làm trợ lý ảo dựa trên nhận diện giọng nói, lấy ý tưởng dựa trên apple ciri, google assistant,...
