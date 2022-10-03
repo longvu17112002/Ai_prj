@@ -6,7 +6,7 @@
 
 Sử dụng thư viện [Sphinx4](https://cmusphinx.github.io/wiki/tutorialsphinx4/), java swing.
 
-## Achieve
+## Achievement
 
 Thông qua nhận diện giọng nói, kết quả đạt được thực hiện các thao tác trên máy tính, một vài chức đơn giản khác,...
 
