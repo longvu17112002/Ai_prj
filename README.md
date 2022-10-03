@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 # Ai_prj
 Đồ án Nhập Môn TTNT
 Chạy run.class để khởi động chương trình.
@@ -36,4 +35,3 @@ Sử dụng mô hình MVC kết hợp với Sphinx4 để thực hiện và đư
 # Reference
 1. [How to Make Voice assistant In JAVA | Bhavik Khawale](https://www.youtube.com/watch?v=xBANSVJFR9c&t=195s)
 2. [Building an application with sphinx4](https://cmusphinx.github.io/wiki/tutorialsphinx4/)
->>>>>>> Stashed changes
