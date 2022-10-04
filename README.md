@@ -13,6 +13,7 @@ Thông qua nhận diện giọng nói, kết quả đạt được thực hiện
 ## Instructions
 
 Thực thi file run.class để chạy chương trình.
+Nhấp chuột vào biểu tượng micro để bắt đầu ghi âm, thực hiện một vài lệnh cơ bản như open google, open youtube,...
 
 ## How it works?
 
